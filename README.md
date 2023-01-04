@@ -2,7 +2,7 @@
 
 
 
-### Oh, you're there! 👋
+### Oh, you're here! 👋
 
 
 #### ❓ About Me
