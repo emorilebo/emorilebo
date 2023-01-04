@@ -16,25 +16,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Oh, hi there! 👋
+### Oh, you're there! 👋
 
 
 #### ❓ About Me
 
 
-- 🔭 I’m currently working on Flutter & Unity C# projects
+- 🔭 I’m currently working on NextJS, JavaScript, Flutter, Rust and Blockchain Projects
 
-- 🌱 I’m currently learning ML & expanding on DevOps
+- 🌱 I’m currently learning Artificial Intelligence and expanding on DevOps and Project Planning.
 
-- 👯 I’m looking to collaborate on ML projects
+- 👯 I’m looking to collaborate on AI and Blockchain Projects
 
-- 💬 Ask me about why I became a programmer and why I'm still one
+- 💬 Ask me about the various ways of raising the dead and I will tell you
 
-- 📫 You can contact me via [my website](https://makosai.com)
+- 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/godfreylebo/)
 
-- ⚡ I like nerdy things (space, science, robots!) and enjoy Marvel
+- ⚡ I like swimming, playing chess, business talks, and the constellations oh and I hate everything boring except Rust
 
-- 🧠 My username was inspired by the voice actor of Iroh
+- 🧠 I believe that in the end, it is not the years in our life that counts; it is the liveliness in our years
 
 <br />
 
