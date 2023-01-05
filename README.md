@@ -91,12 +91,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github" /></a>
     </td>
   </tr>
-  <tr>
-    <th>See more</th>
-    <td>
-      <a href="https://makosai.com">On my website...</a>
-    </td>
-  </tr>
+
 </table>
 
 ---
