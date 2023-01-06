@@ -8,7 +8,7 @@
 #### ❓ About Me
 
 
-- 🔭 I’m currently working on NextJS, JavaScript, Flutter, Rust and Blockchain Projects
+- 🔭 I’m currently working on NextJS,  ReactJS, JavaScript, Flutter, Rust and Solana Blockchain Projects
 
 - 🌱 I’m currently learning Artificial Intelligence and expanding on DevOps and Project Planning.
 
@@ -53,7 +53,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-JSX-black?logo=react&logoColor=Crayola" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Sass-eeeeff?logo=sass" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Material%20UI-444444?logo=material-ui" /></a>
     </td>
