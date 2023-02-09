@@ -25,7 +25,7 @@
 <br />
 
 <p align="center">
-  <a href="https://emorylebo.com.ng"><img alt="emorilebo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://godfreylebo.vercel.app/"><img alt="emorilebo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
   <a href="https://www.youtube.com/channel/UCVHBwaHg5Ikw19nBSj5vFoA"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
   <a href="https://twitter.com/godfreylebo4"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
   <a href="https://www.linkedin.com/in/godfreylebo/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
