@@ -55,6 +55,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Material%20UI-444444?logo=material-ui" /></a>
+       <a href="#"><img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" /></a>
     </td>
   </tr>
   <tr>
