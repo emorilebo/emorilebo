@@ -53,10 +53,9 @@
     <th>Security Tools</th>
     <td>
       <a href="#"><img src="https://img.shields.io/badge/-Snyk-4C4A73?logo=snyk&logoColor=white" /></a>
-      <a href="#">Pen-testing<img src="" /></a> 
     </td>
   </tr>
-I am a seasoned **Agile Software Engineer** with over 5 years of experience in developing innovative and scalable solutions. My expertise encompasses:
+I am a seasoned **Agile Software Engineer** with over 6 years of experience in developing innovative and scalable solutions. My expertise encompasses:
 
 - **Mobile Development:** Proficient in **Flutter** and **Dart**, delivering high-quality cross-platform applications.
 - **Web Development:** Skilled in **ReactJS**, **NextJS**, and **JavaScript**, creating dynamic and responsive user interfaces.
